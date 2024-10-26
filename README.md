@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gogusaivarshith
-- 👀 I'm eager to dive into the uncharted realms of technology and create something legendary, just like Stark 😁😁
+- 👀 I'm eager to dive into the uncharted realms of technology
 - 🌱 "I'm currently diving into the exciting world of Computer Vision and its many territories
 
 <!---
